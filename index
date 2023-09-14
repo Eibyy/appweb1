@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles2.css">
+    <title>Hoja de Vida Personal</title>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@200&display=swap');
+      </style>
+</head>
+<body>
+    <section class="container">
+        <!-- ... Tu contenido de hoja de vida ... -->
+    
+    <header>
+        <h1>Mi Hoja de Vida</h1>
+    </header>
+    <section class="informacion-personal">
+        <h2>Información Personal</h2>
+        <p><strong>Nombre:</strong> Bryan Anthony</p>
+        <p><strong>Apellido:</strong> Bravo Guzman</p>
+        <p><strong>Edad:</strong> 22 años</p>
+        <p><strong>Email:</strong> bryanbr.0310@gmail.com</p>
+        <p><strong>Teléfono:</strong> 0991130779</p>
+        <p><strong>Dirección:</strong> Barrio San Agustin</p>
+    </section>
+    <section class="experiencia-laboral">
+        <h2>Experiencia Laboral</h2>
+        <ul>
+            <li>
+                <h3>La casa de mi papa Company</h3>
+                <p><strong>Cargo:</strong> Cortador de Monte</p>
+                <p><strong>Fecha de Inicio - Fecha de Finalización:</strong> 2013-2023</p>
+                <p><strong>Descripción:</strong> Soy el que se encarga de tener el patio limpio, arreglado y bonito</p>
+            </li>
+            <!-- Puedes agregar más elementos li para cada experiencia laboral -->
+        </ul>
+    </section>
+    <section class="educacion">
+        <h2>Educación</h2>
+        <ul>
+            <li>
+                <h3>Unidad Educativa Fiscomisional San jose</h3>
+                <p><strong>Título:</strong> Bachiller</p>
+                <p><strong>Fecha de Graduación:</strong> 2019</p>
+            </li>
+            <!-- Puedes agregar más elementos li para cada logro educativo -->
+        </ul>
+    </section>
+    <section class="habilidades">
+        <h2>Habilidades</h2>
+ 
+        </table>
+        <table align="center" style="border: 1px #000000 solid">
+            <tbody>
+                <tr>
+                    <td style="border: 1px #000000 solid">Buena lectura comprensiva</td>
+                    <td style="border: 1px #000000 solid">Aprendizaje Rapido</td>
+                </tr>
+                <tr>
+                    <td style="border: 1px #000000 solid">Siempre me ha gustado leer y gracias a eso tengo buena retentiva</td>
+                    <td style="border: 1px #000000 solid">Se me hace facil aprender nuevas destrezas y habildiades</td>
+                </tr>
+            </tbody>
+        </table>
+    </section>
+    <div class="about">
+        <h2 class="title2">Referencias</h2>
+        <table class="references">
+          <tr>
+            <th>Nombre</th>
+            <th>Teléfono</th>
+            <th>Correo Electrónico</th>
+          </tr>
+          <tr>
+            <td>Rocio Guzman</td>
+
+            <td>097888273</td>
+            <td>rocio.guzman28@hotmail.com</td>
+          </tr>
+          <tr>
+            <td>Antonio Bravo</td>
+
+            <td>099281274</td>
+            <td>lant782gmail.com</td>
+          </tr>
+          <tr>
+            <td>Joel Carofilis</td>
+
+            <td>0931262772</td>
+            <td>joel.caro@gmail.com</td>
+          </tr>
+        </table>
+      </div>
+</section>
+</body>
+</html>
